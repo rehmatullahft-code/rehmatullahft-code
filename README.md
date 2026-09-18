@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Rehmat Ullah 👋
 
-<!--
-**rehmatullahft-code/rehmatullahft-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Software Developer focused on building enterprise web applications, SaaS platforms, APIs, and business systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET / ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- React / JavaScript / TypeScript
+- Azure / IIS
+- SignalR / Background Services
+
+## What I Build
+
+- Enterprise Web Applications
+- SaaS Platforms
+- CRM & ERP Systems
+- Admin & Customer Portals
+- Attendance & Workforce Systems
+- Cloud & Server Management Portals
+- REST API Integrations
+
+## Featured Work
+
+### Cloud Management Portal
+Admin and customer portal for managing virtual machines and cloud infrastructure, including machine monitoring, server actions, role-based access, activity logs, and remote console functionality.
+
+### Attendance Management System
+Multi-location employee attendance platform with biometric device integration, GeoFence attendance, shift management, employee portal, reporting, and real-time monitoring.
+
+### Installment Management System
+Multi-tenant SaaS platform for customers, sales, installment contracts, collections, inventory, purchases, expenses, reporting, and branch management.
+
+## Portfolio
+
+🌐 https://rehmatullah.me
