@@ -2,6 +2,8 @@
 
 Full Stack Software Developer focused on building enterprise web applications, SaaS platforms, APIs, and business systems.
 
+🌐 **Portfolio:** https://rehmatullah.me
+
 ## Tech Stack
 
 - C# / .NET / ASP.NET Core
@@ -32,7 +34,3 @@ Multi-location employee attendance platform with biometric device integration, G
 
 ### Installment Management System
 Multi-tenant SaaS platform for customers, sales, installment contracts, collections, inventory, purchases, expenses, reporting, and branch management.
-
-## Portfolio
-
-🌐 https://rehmatullah.me
